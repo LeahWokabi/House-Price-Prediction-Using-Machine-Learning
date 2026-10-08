@@ -137,7 +137,7 @@ These predictions should be treated as estimates rather than precise property va
  The final model performed considerably better than both the mean-price baseline and the initial Linear Regression model.
  The final model explains approximately 70% of the variation in house prices on the test set.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 The project could be further improved by:
 
