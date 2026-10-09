@@ -18,7 +18,7 @@ Interpret the results and identify potential areas for future improvement.
 
 ##  Dataset
 
-The dataset contains **21,613 housing records** and **21 variables**, including:
+The dataset contains **21,613 housing records** and the following **21 variables**:
 
 Number of bedrooms and bathrooms
 Living area (`sqft_living`)
